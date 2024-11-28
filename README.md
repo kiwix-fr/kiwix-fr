@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💻 Étudiant en 1ère année d'informatique<br>🐧 Utilisateur de Linux<br>💡 Code principalement en C, Python, HTML et JavaScript<br> 🎸 Grand fan des Guns N' Roses<br>📍 France<br>✉️ kiwix.shell@gmail.com / kiwix.shell (discord)
+<br>💻 Étudiant en 1ère année d'informatique<br>📍 France<br>✉️ kiwix.shell@gmail.com / kiwix.shell (discord)
 
 
 ## 🌐 Socials:
